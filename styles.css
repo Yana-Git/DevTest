@@ -1,0 +1,43 @@
+.Desktop {
+    width: 100%;
+    padding: 0.5px 0 50.5px;
+  }
+  
+  .Rectangle-2 {
+    width: 100%;
+    margin: 0 0 27px;
+    background-image: linear-gradient(to left, rgba(255, 255, 255, 0), #000000 35%);
+    position:absolute; z-index:0;
+  }
+  .Need-a-dog-sitter {
+    position:absolute; z-index:1;
+    width: 201px;
+    height: 28px;
+    margin: 0 93px 5px 0;
+    font-family: Quicksand;
+    font-size: 22.5px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+    top: 88.5px;
+    left: 109.5px;
+  }
+  .Find-a-trusted-sitte {
+    position:absolute; z-index:1;
+    left: 111.5px;
+    top: 121.5px;
+    width: 292px;
+    height: 34px;
+    margin: 5px 0 12.5px 2px;
+    font-family: Quicksand;
+    font-size: 12px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.42;
+    letter-spacing: normal;
+    color: #ffffff;
+  }
